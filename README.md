@@ -31,22 +31,25 @@ This assignment uses the ORES REST API, and the documentation can be found [here
 
 
 ## Final data file fields
-* For `wp_wpds_countries-no_match.csv`:
-| Column        |   
-| ------------- | 
-| rev_id         | 
-| score       |
-| page  | 
+* For `wp_wpds_countries-no_match.csv`: <br />
+
+| Column   |
+| ------------- |
+| rev_id    |
+| score   |
+| page    |
 | country  |
 
-* For `wp_wpds_politicians_by_country.csv`:
-| Column        |   
-| ------------- | 
-| country        | 
-| article_name      |
-| revision_id  | 
+
+* For `wp_wpds_politicians_by_country.csv`: <br />
+| Column  |
+| ------------- |
+| country  |
+| article_name  |
+| revision_id  |
 | article_quality_est.  |
 | population  |
+
 
 ## Notes for user
 The project also aims to explore the Geographic regions by coverage: Ranking of geographic regions in terms of the total count of politician articles from countries in each region as a proportion of total regional population and in terms of the relative proportion of politician articles from countries in each region that are of GA and FA-quality. Unfortunately, due to my initial lack of design in cleaning and merging tables and a lack of time, it is not implemented yet. However, these will be interesting metrics to look at.
