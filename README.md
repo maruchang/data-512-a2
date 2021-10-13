@@ -42,6 +42,7 @@ This assignment uses the ORES REST API, and the documentation can be found [here
 
 
 * For `wp_wpds_politicians_by_country.csv`: <br />
+
 | Column  |
 | ------------- |
 | country  |
